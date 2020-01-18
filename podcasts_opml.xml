@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="TED Talks Technology" xmlUrl="http://feeds.feedburner.com/iTunesPodcastTTTechnology" />
+      <outline type="rss" text="Philosophize This!" xmlUrl="http://philosophizethis.libsyn.com/rss" />
+      <outline type="rss" text="Le masque et la plume" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14007.xml" />
+      <outline type="rss" text="Le temps de méditer" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_20104.xml" />
+      <outline type="rss" text="Expression directe" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_12419.xml" />
+      <outline type="rss" text="Le temps d'un bivouac" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_13019.xml" />
+      <outline type="rss" text="relife : amélioration du quotidien" xmlUrl="http://www.relifepodcast.com/feed/podcast/" />
+      <outline type="rss" text="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" />
+      <outline type="rss" text="Distributed, with Matt Mullenweg" xmlUrl="https://distributed.blog/category/podcast/feed/" />
+      <outline type="rss" text="Grand bien vous fasse !" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_16173.xml" />
+      <outline type="rss" text="Par Jupiter !" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_18153.xml" />
+      <outline type="rss" text="L'ours et la carotte - radioomega.fr" xmlUrl="http://www.radioomega.fr/site/specific/rssEmission.php?label=143" />
+      <outline type="rss" text="The Restart Project Podcast" xmlUrl="https://therestartproject.org/feed/podcast/" />
+      <outline type="rss" text="La Terre au carré" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10212.xml" />
+      <outline type="rss" text="Change ma vie : Outils pour l'esprit" xmlUrl="https://rss.art19.com/change-ma-vie" />
+      <outline type="rss" text="Pardon Maman" xmlUrl="https://rss.acast.com/pardon-maman" />
+      <outline type="rss" text="Bons Plants" xmlUrl="https://rss.acast.com/bons-plants" />
+      <outline type="rss" text="Les Carencés - Podcast sur la Cause Animale" xmlUrl="https://www.lescarences.fr/feed/podcast" />
+      <outline type="rss" text="Pleine Lucarne" xmlUrl="https://ouest-france.saooti.com/ws/saooti/services/rss/emission/3/15/fr_FR" />
+      <outline type="rss" text="7 milliards de voisins" xmlUrl="http://www.rfi.fr/emission/7-milliards-voisins/podcast" />
+      <outline type="rss" text="The Remote Dev" xmlUrl="https://anchor.fm/s/f258b2c/podcast/rss" />
+    </outline>
+  </body>
+</opml>
